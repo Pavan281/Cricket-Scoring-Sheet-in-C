@@ -1,1 +1,0 @@
-# Cricket-Scoring-Sheet-in-C
